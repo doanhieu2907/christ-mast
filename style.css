@@ -48,7 +48,7 @@ body {
   position: relative;
   transform: none;
   margin-bottom: 20px;
-  font-family: 'Mountains of Christmas', cursive;
+  font-family: "Mountains of Christmas", cursive;
   font-size: 3rem;
   color: #fff;
   text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
@@ -144,7 +144,7 @@ body {
 }
 
 .bell::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: 2px;
   left: 50%;
@@ -209,7 +209,7 @@ body {
   position: fixed;
   width: 50px;
   height: 50px;
-  background: url('https://firebasestorage.googleapis.com/v0/b/webai-54992.appspot.com/o/Gift_Flat_Icon_Vector.svg?alt=media&token=8bb72a2d-183c-462b-a1b8-e42af9bf52e0')
+  background: url("https://firebasestorage.googleapis.com/v0/b/webai-54992.appspot.com/o/Gift_Flat_Icon_Vector.svg?alt=media&token=8bb72a2d-183c-462b-a1b8-e42af9bf52e0")
     no-repeat;
   background-size: contain;
   cursor: pointer;
